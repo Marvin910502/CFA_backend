@@ -1,0 +1,8 @@
+/backend/.env
+/.idea/.gitignore
+/.idea/backend.iml
+/db.sqlite3
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/inspectionProfiles/Project_Default.xml
